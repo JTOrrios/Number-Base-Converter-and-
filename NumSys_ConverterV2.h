@@ -102,6 +102,7 @@ void Hex_To_Bin(std::string)
         std::cout << binArr[j];
     std::cout << "\n\n";
 }
+
 void Hex_To_Oct(std::string)
 {
     std::stringstream ss;
